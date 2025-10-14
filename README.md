@@ -84,8 +84,4 @@ PowerAutomateAIBuilderLabL100/
 - [AI Builder Documentation](https://learn.microsoft.com/ai-builder/)
 - [SharePoint Connector Reference](https://learn.microsoft.com/connectors/sharepointonline/)
 
----
 
-## License
-
-This project is provided as-is for educational purposes.
