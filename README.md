@@ -104,7 +104,7 @@ A Power Automate flow that:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Step 1: Choose Your Lab
 
@@ -136,7 +136,7 @@ Each lab includes:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 PowerAutomateAIBuilderLabL100/
@@ -159,7 +159,7 @@ PowerAutomateAIBuilderLabL100/
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
 ### General Tips
 
@@ -193,7 +193,7 @@ PowerAutomateAIBuilderLabL100/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 After completing these labs, you will be able to:
 
@@ -209,7 +209,7 @@ After completing these labs, you will be able to:
 
 ---
 
-## 📖 Additional Resources
+## Additional Resources
 
 ### Microsoft Documentation
 
@@ -229,7 +229,7 @@ After completing these labs, you will be able to:
 
 ---
 
-## ✨ What's New
+## What's New
 
 - **Updated screenshots:** All images now organized in the `screenshots/` folder with descriptive names
 - **Enhanced troubleshooting:** Both labs include comprehensive troubleshooting sections
@@ -238,19 +238,19 @@ After completing these labs, you will be able to:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Found an issue or have suggestions for improvement? Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is provided as-is for educational purposes.
 
 ---
 
-## 🙋 Support
+## Support
 
 If you encounter issues while working through these labs:
 
@@ -261,6 +261,6 @@ If you encounter issues while working through these labs:
 
 ---
 
-**Happy Learning! 🚀**
+**Happy Learning!**
 
 Build intelligent automation solutions with Power Automate and AI Builder!
