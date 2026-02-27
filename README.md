@@ -65,15 +65,12 @@ The repository includes sample files for testing:
 PowerAutomateAIBuilderLabL100/
 ├── README.md
 ├── Lab-1-Invoice-Processing-with-AI-Builder.md
-├── Lab-1-Invoice-Processing-with-AI-Builder.pdf
 ├── Lab-2-Custom-Object-Detection-Green-Tea-Detection.md
-├── Lab-2-Custom-Object-Detection-Green-Tea-Detection.pdf
 ├── Invoices/                  # Sample invoice PDFs
 ├── Green Tea/
 │   ├── Train/                 # Training images
 │   └── Test/                  # Test images
 ├── screenshots/               # Lab reference screenshots
-└── Solution/                  # Pre-built solution package
 ```
 
 ---
