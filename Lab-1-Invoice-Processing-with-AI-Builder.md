@@ -16,7 +16,7 @@
 
 ## Step 1: Prepare SharePoint
 
-If you are using the pre-created ARUP playground, navigate to https://1nk13d.sharepoint.com/sites/ARUPPlayground/Lists/Payments/AllItems.aspx. If you are creating your own then navigate to your SharePoint home page.
+If you are using the pre-created <company> playground, navigate to your SharePoint playground site's Payments list. If you are creating your own then navigate to your SharePoint home page.
 
 ### 1.1 Create a Document Library
 
@@ -76,7 +76,7 @@ If you are using the pre-created ARUP playground, navigate to https://1nk13d.sha
 ### 2.2 Configure the SharePoint Trigger
 
 1. Click on the When a file is created or modified (properties only) trigger in the editor
-2. In the **Site Address** dropdown, select or enter your SharePoint site (e.g., "ARUP Playground - https://1nk13d.sharepoint.com/sites/ARUPPlayground").
+2. In the **Site Address** dropdown, select or enter your SharePoint site (e.g., "<company> Playground").
 3. In the **Library Name** dropdown, select **Invoices** or the name of the document library you created in step 1.1. If using the standard one, choose **Documents**.
 4. Leave the rest of the settings as default.
 
@@ -430,7 +430,7 @@ For each variable below, follow these steps:
    - **Problem**: You selected a different list than the one you created.
    - **Solution**:
      - In step 2.10, verify the **List Name** matches the list you created in step 1.2.
-     - If using the ARUP Playground, select "Payments".
+     - If using the <company> Playground, select "Payments".
 
 3. **Data Type Mismatch**
 
